@@ -171,17 +171,17 @@ ul li span:hover {
     }
     .row {
         flex-direction: column; /* Stack input and button vertically */
-        padding-left: 10px;
+        padding: 0px;
     }
     input {
         padding: 8px;
         font-size: 0.9rem;
     }
     #button {
-        padding: 0;
-		width: 350px;
+        padding: 0px;
+		width: 300px;
         font-size: 14px;
-        margin-top: 10px;
+        margin: -10px -10px 10px -10px;
     }
     ul li {
         font-size: 15px;
