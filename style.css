@@ -177,8 +177,9 @@ ul li span:hover {
         padding: 8px;
         font-size: 0.9rem;
     }
-    button {
-        padding: 10px 30px;
+    #button {
+        padding: 0;
+		width: 350px;
         font-size: 14px;
         margin-top: 10px;
     }
